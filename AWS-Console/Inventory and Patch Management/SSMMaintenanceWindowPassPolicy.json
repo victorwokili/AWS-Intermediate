@@ -1,4 +1,5 @@
 #Policy for SSM Maintenance windows for creating patch maintenace windows
+#Attach policy to IAM User group
 {
     "Version": "2012-10-17",
     "Statement": [
