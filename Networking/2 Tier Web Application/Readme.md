@@ -10,4 +10,15 @@
 
 <br><br>
 
-2.
+2.Create an Application Load Balancer
+3. Create Security Groups for the Public and Private Subnet below
+  - WebServerSG1
+  - WebServerSG2
+  - RDS-SG1
+  - RDS-SG2
+
+
+2. Create A Lauch Template for an Auto Scaling Group, take advantage of the user data field
+3. 
+
+4. 
