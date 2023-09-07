@@ -24,6 +24,12 @@
 a. Don't forget to include an auto scaling group access IAM Role to the template
 b. Ensure you it is a public IP 
 
-4. Create an autoscaling group
+4. Create an autoscaling group for both Web and App Servers
 
-5. 
+5. Create the BastionHostServer EC2 instance
+  - Ensure the Security Group of the Bastion Host Server has port 22 connected to 0.0.0.0/0
+  - 
+   
+
+## Test VPC Gateway Endpoint
+6.  
