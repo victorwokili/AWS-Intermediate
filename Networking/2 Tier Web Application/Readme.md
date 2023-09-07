@@ -20,8 +20,10 @@
   - RDS-SG2
 
 3. 
-2. Create A Launch Template for an Auto Scaling Group, take advantage of the user data field
+2. Create A Launch Template (Web &App Servers) for an Auto Scaling Group, take advantage of the user data field 
 a. Don't forget to include an auto scaling group access IAM Role to the template
-3. 
+b. Ensure you it is a public IP 
 
-4. 
+4. Create an autoscaling group
+
+5. 
