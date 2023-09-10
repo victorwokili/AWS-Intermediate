@@ -32,4 +32,5 @@ b. Ensure you it is a public IP
    
 
 ## Test VPC Gateway Endpoint
-6.  
+6. 
+7.  Ensure the App Servers connect to S3 only and nothing else
